@@ -59,14 +59,14 @@ sezione banner
     float: left;
     color: white;
 }
-.space .programmer-name{
+.worker-description .programmer-name{
     padding-top: 10px;
     font-size: 20px;
 }
-.space .job{
+.worker-description .job{
     padding-bottom: 10px;
     padding-top: 10px;
 }
-.space .blue-color{
+.worker-description .blue-color{
     color: #419fb9;
 }
